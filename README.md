@@ -1,1 +1,1 @@
-# clinique-demba-toure
+# clinique-dentaire
